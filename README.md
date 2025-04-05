@@ -33,5 +33,5 @@ The `BookMyShow` application is a ticket booking system for movies, events, and 
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rachit77s/BookMyShow.git
+git clone https://github.com/olirek1/bookmyshow.git
 cd BookMyShow
